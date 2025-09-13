@@ -5,10 +5,10 @@ This project analyzes customer churn for a telecommunications company using the 
 •	Segment customers based on their likelihood of leaving.
 •	Provide actionable insights to reduce churn and improve retention.
  Dataset Used
- 
+- <a heref="https://github.com/Tonia-123/Data-Analysis-Dashboard/blob/main/Sample%20Telco-Customer-Churn.xlsx">Dataset</a> 
  Tools Used:
 •	Excel: Data cleaning, feature creation and trend analysis..
-•	Power BI: Interactive dashboards and advanced visualizations for stakeholder reporting.
+•	Power BI: Interactive dashboards and advanced visualizations for stakeholder reporting.https://github.com/Tonia-123/Data-Analysis-Dashboard/blob/main/Telco.png
 
  Key Steps In Project
 1.	Data Cleaning & Preparation 
@@ -28,6 +28,8 @@ Studied impact of contract type, payment method and monthly charges.
 
 4.Dashboard Creation
 Power BI: Dynamic dashboard with slicers for churn rate by demographics, services and tenure.
+<img width="959" height="541" alt="Telco" src="https://github.com/user-attachments/assets/ebca882e-4c9f-4b43-931a-750100f36aa7" />
+
 
       5.Recommendations
 •	Focus retention efforts on customers with month-to-month contracts, as they are most likely to leave.
