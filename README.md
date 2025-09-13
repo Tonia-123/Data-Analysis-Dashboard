@@ -10,6 +10,5 @@ This project analyzes customer churn for a telecommunications company using the 
 
 ## Dataset Used
 - <a heref="https://github.com/Tonia-123/Data-Analysis-Dashboard/blob/main/Sample%20Telco-Customer-Churn.xlsx">Dataset</a>
-  
 
 
