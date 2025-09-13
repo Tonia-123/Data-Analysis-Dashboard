@@ -10,5 +10,34 @@ This project analyzes customer churn for a telecommunications company using the 
 
 ## Dataset Used
 - <a heref="https://github.com/Tonia-123/Data-Analysis-Dashboard/blob/main/Sample%20Telco-Customer-Churn.xlsx">Dataset</a>
+- 
+## Tools Used:
+•	Excel: Data cleaning, feature creation and trend analysis
+
+•	Power BI: Interactive dashboards and advanced visualizations for stakeholder reporting.
+
+ ## Processes
+1.	Data Cleaning & Preparation 
+Handled missing values 
+Standardized data types (dates, numeric columns).
+Created new features such as Customer Tenure Group
+
+2.	Exploratory Data Analysis (EDA) 
+Compared churn vs non-churn customers.
+Analyzed churn across demographics.
+Studied impact of contract type, payment method and monthly charges.
+
+## Dashboard 
+Power BI: Dynamic dashboard with slicers for churn rate by demographics, services and tenure. <img width="959" height="541" alt="Telco" src="https://github.com/user-attachments/assets/d599c1b8-8b84-4087-8067-276b7325c380" />
 
 
+## Insights & Patterns 
+•	Females churn slightly more (13) than males (10), despite females being a larger group.
+•	Customers with month-to-month contracts show the highest churn. Those on one-year or two-year contracts have no churn recorded.
+•	Most churn happens in the 0-12 months tenure group, showing new customers are most likely to leave early
+
+## Recommendations
+•	Focus retention efforts on customers with month-to-month contracts, as they are most likely to leave.
+•	Improve onboarding and engagement for new customers in their first year to reduce early churn.
+•	Gender differences in churn seem small but can be explored further for campaigns especially for females.
+•	Encourage longer-term contract subscriptions by highlighting benefits and offering incentives, since these have zero churn in this data.
